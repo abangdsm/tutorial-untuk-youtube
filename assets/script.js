@@ -1,3 +1,3 @@
 function gabung() {
-    window.location.href = "https://facebook.com";
+    window.location.href = "https://tentangkode.com";
 }
